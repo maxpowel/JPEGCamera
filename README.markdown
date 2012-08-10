@@ -46,9 +46,8 @@ Methods
 
 Note
 ===========
-The camera works at 5V or 3.3V. I
+The camera works at 5V or 3.3V, but I you connect VCC to 5V dont use a 3.3V serial connection
 
-Warning
-===========
-BeagleBone works at 3.3V but the servos (usually) works at 5V logic. The signal line should work fine if you connect it directly to beablebone but take care with the
-power line. Use a power source of 5V but never a 3.3V or you can fry the pin.
+[Resolution Issue](http://www.linksprite.com/faq/shownews.php?lang=en&id=83)
+[Datasheet](http://www.sparkfun.com/datasheets/Sensors/Imaging/1274419957.pdf)
+[Reference page](https://www.sparkfun.com/products/10061)
