@@ -48,6 +48,9 @@ Note
 ===========
 The camera works at 5V or 3.3V, but I you connect VCC to 5V dont use a 3.3V serial connection
 
+
+Resources
+=========
 [Resolution Issue](http://www.linksprite.com/faq/shownews.php?lang=en&id=83)
 [Datasheet](http://www.sparkfun.com/datasheets/Sensors/Imaging/1274419957.pdf)
 [Reference page](https://www.sparkfun.com/products/10061)
